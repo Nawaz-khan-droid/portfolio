@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const BASE_URL = "https://nawaz-khan-droid.github.io/NK-Portfolio";
+const BASE_URL = "https://nawaz-khan-droid.github.io/portfolio";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
