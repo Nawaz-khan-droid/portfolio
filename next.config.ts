@@ -3,15 +3,17 @@ import type { NextConfig } from "next";
 const isGitHubPages = process.env.GITHUB_PAGES === "true";
 
 // The GitHub repo name — must match exactly for GitHub Pages to serve assets correctly
-const REPO_NAME = "NK-Portfolio";
+const REPO_NAME = "portfolio";
 
+// GitHub Pages routing:
+// - If your repo is "portfolio" (project site), set basePath to "/portfolio"
 const nextConfig: NextConfig = {
   // GitHub Pages: static HTML export (no server required)
   output: "export",
 
   // GitHub Pages: sets basePath when deploying to github.io/repo-name
   // - If your repo is "nawaz-khan-droid.github.io" (user site), leave basePath empty
-  // - If your repo is "NK-Portfolio" (project site), set basePath to "/NK-Portfolio"
+  // - If your repo is "portfolio" (project site), set basePath to "/portfolio"
   basePath: isGitHubPages ? `/${REPO_NAME}` : "",
 
   // Expose basePath to client components so they can build correct asset URLs
