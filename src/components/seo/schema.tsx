@@ -1,5 +1,5 @@
 export function SeoSchemas() {
-  const siteUrl = "https://nawaz-khan-droid.github.io/NK-Portfolio"
+  const siteUrl = "https://nawaz-khan-droid.github.io/portfolio"
   const logoUrl = `${siteUrl}/logo.svg`
   const ogImageUrl = `${siteUrl}/og-image-v2.jpg`
 
