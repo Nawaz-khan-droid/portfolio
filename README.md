@@ -1,19 +1,19 @@
 # 🚀 Nawaz Khan — Portfolio Website
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Site-nawaz--khan--droid.github.io%2FNK--Portfolio-emerald?style=for-the-badge&logo=githubpages)](https://nawaz-khan-droid.github.io/NK-Portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Site-nawaz--khan--droid.github.io%2Fportfolio-emerald?style=for-the-badge&logo=githubpages)](https://nawaz-khan-droid.github.io/portfolio/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 Personal portfolio website for **Nawaz Khan** — AI & Machine Learning Engineer specializing in Retrieval-Augmented Generation (RAG), Agentic AI workflows, Voice AI assistants, and automated Python solutions.
 
-🔗 **Live Website**: [https://nawaz-khan-droid.github.io/NK-Portfolio/](https://nawaz-khan-droid.github.io/NK-Portfolio/)
+🔗 **Live Website**: [https://nawaz-khan-droid.github.io/portfolio/](https://nawaz-khan-droid.github.io/portfolio/)
 
 ---
 
 ## ✨ Features & Interactive Highlights
 
-- ⌨️ **Typewriter Animation**: Dynamic hero title cycling through key roles (*"AI & ML Engineer"*, *"RAG Systems Builder"*, *"Agentic AI Developer"*, *"Python Developer"*) at 65ms/char, 2.2s pause, and 38ms deletion with a step-end blinking cursor.
+- ⌨️ **Typewriter Animation**: Dynamic hero title cycling through key roles (*"AI & ML Engineer"*, *"Applied AI Engineer"*, *"Agentic AI Developer"*, *"Full-Stack Developer"*) at 65ms/char, 2.2s pause, and 38ms deletion with a step-end blinking cursor.
 - 🔄 **Status Badge Vertical Swap**: Animated vertical text slider in the Hero status badge toggling between *"Open to Work"* and *"Open to AI Internships"*.
 - 🎙️ **Voice Search Friendly FAQs**: Structured natural language FAQ section with embedded `FAQPage` JSON-LD schema for Google Search & Voice Assistants (SIRI, Google Assistant, Alexa) indexing.
 - 🤖 **Interactive AI Assistant**: Floating client-side chatbot providing instant responses about Nawaz's skills, projects, background, and contact options.
@@ -34,8 +34,8 @@ Personal portfolio website for **Nawaz Khan** — AI & Machine Learning Engineer
 
 ```bash
 # Clone the repository
-git clone https://github.com/Nawaz-khan-droid/NK-Portfolio.git
-cd NK-Portfolio
+git clone https://github.com/Nawaz-khan-droid/portfolio.git
+cd portfolio
 
 # Install dependencies
 bun install
