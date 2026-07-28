@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://nawaz-khan-droid.github.io/NK-Portfolio/sitemap.xml
+Sitemap: https://nawaz-khan-droid.github.io/portfolio/sitemap.xml
