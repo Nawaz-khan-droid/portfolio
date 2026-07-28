@@ -221,7 +221,7 @@ export function Hero() {
             className="gap-2 px-6"
             asChild
           >
-            <a href="/NK-Portfolio/resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/portfolio/resume.pdf" target="_blank" rel="noopener noreferrer">
               <FileText className="h-4 w-4" aria-hidden="true" />
               View Resume
             </a>
