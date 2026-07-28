@@ -12,9 +12,9 @@ const RESUME_URL = `${BASE_PATH}/resume.pdf`
 
 const PHRASES = [
   "AI & ML Engineer",
-  "RAG Systems Builder",
+  "Applied AI Engineer",
   "Agentic AI Developer",
-  "Python Developer",
+  "Full-Stack Developer",
 ]
 
 const STATUSES = [
